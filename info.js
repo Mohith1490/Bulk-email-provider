@@ -1,6 +1,8 @@
  const data = {
-    user1:'mohithsingh12325@gmail.com',
-    user2:'mohithsingh1973@gmail.com',
+    user1:'user@gmail.com',
+    user2:'user@gmail.com',
+    user3:'user@gmail.com',
+    user4:'user@gmail.com',
 }
 
 export default data

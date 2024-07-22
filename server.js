@@ -9,7 +9,7 @@ const server = http.createServer((request, response) => {
         port: 587,
         auth: {
             user: "mohith1754singh@gmail.com",
-            pass: "pfcf xnkb kbdv gypl"
+            pass: "gmail app password"
 
         }
     });
